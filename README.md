@@ -3,21 +3,15 @@
 
 ## [목차]
 
-* [\[Dialogue State Tracking 소개\]](#dialogue-state-tracking-소개)
+* [\[Relation Extraction 소개\]](#relation-extraction-소개)
+* [\[Data\]](#data)
 * [\[Installation\]](#installation)
     * [Dependencies](#dependencies)
 * [\[Usage\]](#usage)
 * [\[File Structure\]](#file-structure)
-    * [Baseline(TRADE)](#baseline-trade)
-    * [CHAN-DST](#chan-dst)
-    * [SOM-DST](#som-dst)
-    * [Transformer-DST](#transformer-dst)
-    * [TAPT (Task adaptive Pretraining)](#tapt-task-adaptive-pretraining)
-    * [Serving](#serving)
-* [\[Input JSON File\]](#input-json-file)
-* [\[Contributors\]](#contributors)
-* [\[Collaborative Tool\]](#collaborative-tool)
+* [\[My Solution\]](#my-solution)
 * [\[Reference\]](#reference)
+    * [Library](#library)
     * [Papers](#papers)
     * [Dataset](#dataset)
 
