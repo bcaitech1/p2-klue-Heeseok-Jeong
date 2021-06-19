@@ -1,8 +1,11 @@
 # Heath's KLUE Relation Extraction
 
-프로젝트 기간 : 2021.04.12 ~ 2021.04.22
+**프로젝트 기간 : 2021.04.12 ~ 2021.04.22**
+<br>
 
-프로젝트 주제 : Relation Extraction
+**프로젝트 주제 : Relation Extraction**
+<br>
+<br>
 
 ## [목차]
 
