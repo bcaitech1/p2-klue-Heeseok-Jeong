@@ -192,7 +192,7 @@ p2-klue-Heeseok-Jeong/
 ### Papers
 
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (Devlin et al., arXiv 2018)](https://arxiv.org/pdf/1810.04805.pdf)
-- [RoBERTa: A Robustly Optimized BERT Pretraining Approach (Liu et al., arXiv 2019)] https://arxiv.org/pdf/1907.11692.pdf)
+- [RoBERTa: A Robustly Optimized BERT Pretraining Approach (Liu et al., arXiv 2019)](https://arxiv.org/pdf/1907.11692.pdf)
 - [Unsupervised Cross-lingual Representation Learning at Scale (Conneau et al., arXiv 2020)](https://arxiv.org/pdf/1911.02116.pdf)
 - [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators (Clark et al., arXiv 2020)](https://arxiv.org/pdf/2003.10555.pdf)
 
