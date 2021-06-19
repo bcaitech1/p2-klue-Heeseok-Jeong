@@ -172,10 +172,10 @@ p2-klue-Heeseok-Jeong/
 
 1. BERT, XLM_Roberta_large, monologg/koelectra 모델 사용
 2. 문장 입력구조 변경
-  1. [CLS] 이순신 [SEP] 무신 [SEP] 이순신은 조선 중기 무신이다. [SEP]
-  2. [CLS] 이순신은 조선 중기 무신이다. [SEP] 이순신 과 무신 은 무슨 관계일까요? [SEP]
-  3. [CLS] </e1> 이순신 </e1> 은 조선 중기 </e2> 무신 </e2> 이다. [SEP]
-  4. [CLS] </e1> 이순신 </e1> 은 조선 중기 </e2> 무신 </e2> 이다. [SEP] </e1> 이순신 </e1> 과 </e2> 무신 </e2> 은 무슨 관계일까요? [SEP]
+  - [CLS] 이순신 [SEP] 무신 [SEP] 이순신은 조선 중기 무신이다. [SEP]
+  - [CLS] 이순신은 조선 중기 무신이다. [SEP] 이순신 과 무신 은 무슨 관계일까요? [SEP]
+  - [CLS] </e1> 이순신 </e1> 은 조선 중기 </e2> 무신 </e2> 이다. [SEP]
+  - [CLS] </e1> 이순신 </e1> 은 조선 중기 </e2> 무신 </e2> 이다. [SEP] </e1> 이순신 </e1> 과 </e2> 무신 </e2> 은 무슨 관계일까요? [SEP]
 3. Ensemble - Soft Voting
 
 <br>
@@ -191,13 +191,11 @@ p2-klue-Heeseok-Jeong/
 
 ### Papers
 
-- [Transferable Multi-Domain State Generator for Task-Oriented
-Dialogue Systems(wu et al., arXiv 2019)](https://arxiv.org/pdf/1905.08743v2.pdf)
-- [SUMBT: Slot-Utterance Matching for Universal and Scalable Belief Tracking (Lee et al., arXiv 2019)](https://arxiv.org/pdf/1907.07421v1.pdf)
-- [Efficient Dialogue State Tracking by Selectively Overwriting Memory (Kim et al., arXiv 2020)](https://arxiv.org/pdf/1911.03906v2.pdf)
-- [A Contextual Hierarchical Attention Network with Adaptive Objective for Dialogue State Tracking (Shan et al., ACL 2020)](https://www.aclweb.org/anthology/2020.acl-main.563.pdf)
-- [Jointly Optimizing State Operation Prediction and Value Generation for
-Dialogue State Tracking (Zeng et al., arXiv 2021)](https://arxiv.org/pdf/2010.14061v2.pdf)
+- [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (Devlin et al., arXiv 2018)](https://arxiv.org/pdf/1810.04805.pdf)
+- [RoBERTa: A Robustly Optimized BERT Pretraining Approach (Liu et al., arXiv 2019)]https://arxiv.org/pdf/1907.11692.pdf)
+- [Unsupervised Cross-lingual Representation Learning at Scale (Conneau et al., arXiv 2020)](https://arxiv.org/pdf/1911.02116.pdf)
+- [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators (Clark et al., arXiv 2020)](https://arxiv.org/pdf/2003.10555.pdf)
+
 
 ### Dataset
 
